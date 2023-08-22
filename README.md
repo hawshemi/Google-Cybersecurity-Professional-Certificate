@@ -7,7 +7,7 @@
 
 ### 1. [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/ZGF97DXLA3ZZ_
 #
 ### 2. [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity)
 
