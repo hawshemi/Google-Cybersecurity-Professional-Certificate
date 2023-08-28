@@ -11,7 +11,7 @@
 #
 ### 2. [Play It Safe: Manage Security Risks](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/WA3WVNQ9E56D_
 #   
 ### 3. [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity)
 
