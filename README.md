@@ -15,7 +15,7 @@
 #   
 ### 3. [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/DKS8GNVHSPKF_
 #   
 ### 4. [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity)
 
