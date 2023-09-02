@@ -19,7 +19,7 @@
 #   
 ### 4. [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/H25JPWHTR733_
 #
 ### 5. [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity)
 
