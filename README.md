@@ -23,7 +23,7 @@
 #
 ### 5. [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/MMHM5P96WY4U_
 #
 ### 6. [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response?specialization=google-cybersecurity)
 
