@@ -27,7 +27,7 @@
 #
 ### 6. [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/VCP5CPUFW2S9_
 #
 ### 7. [Automate Cybersecurity Tasks with Python](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity)
 
