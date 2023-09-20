@@ -31,7 +31,7 @@
 #
 ### 7. [Automate Cybersecurity Tasks with Python](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/CPQC6LNXGSWX_
 #
 ### 8. [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs?specialization=google-cybersecurity)
 
