@@ -2,7 +2,7 @@
 
 
 ## [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/professional-cert/VLYY2Q7Y4KSD_
 #
 
 ### 1. [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity)
@@ -35,7 +35,7 @@
 #
 ### 8. [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/learn/prepare-for-cybersecurity-jobs?specialization=google-cybersecurity)
 
-####    **Certificate:** _..._
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/23TDXSMGSGJC_
 #
 
 
